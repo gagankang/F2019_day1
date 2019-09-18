@@ -13,7 +13,10 @@ public class FirstDay
         b = 20;
         c = a + b ;
 
-        
+
         System.out.println("SUM : " + c);
+
+
     }
+
 }
