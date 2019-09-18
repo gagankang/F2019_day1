@@ -8,7 +8,7 @@ public class FirstDay
         // Variable Declaration
         int a, b, c;
 
-        //Value Assignment
+
         a = 10;
         b = 20;
         c = a + b ;
